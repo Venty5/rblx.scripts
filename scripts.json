@@ -1,0 +1,153 @@
+{
+  "scripts": [
+    {
+      "name": "Vortex",
+      "status": "Down",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "updated": "17/10/2026 at 23:26",
+      "loadstring": "loadstring(game:HttpGet(\"https://api.getvortex.vip/scripts/VortexMain\"))()",
+      "discord": "https://discord.gg/getvortex",
+      "website": "https://getvortex.vip/",
+      "recommended": false
+    },
+    {
+      "name": "Nova",
+      "status": "Down",
+      "detection": "Unknown",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "updated": "Not Released",
+      "loadstring": "",
+      "discord": "https://discord.gg/XaCycuGUmY",
+      "website": "https://fakebyte.lol/"
+    },
+    {
+      "name": "ZekeHub",
+      "status": "Down",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Paid - 18.99$",
+      "updated": "12.11.2026 at 18:50",
+      "loadstring": "script_key = \"\" -- get your key at zekehub.com\nloadstring(game:HttpGet(\"https://zekehub.com/scripts/MainLoader.lua\"))()",
+      "discord": "https://discord.gg/zekehub",
+      "website": "https://zekehub.com"
+    },
+    {
+      "name": "Xeioa",
+      "status": "Down",
+      "detection": "Undetected",
+      "keysystem": "Key System",
+      "price": "Free",
+      "updated": "22/08/2026 at 17:46",
+      "loadstring": "loadstring(game:HttpGet(\"https://api.jnkie.com/api/v1/luascripts/public/e2d779b3b50f64de8a3dfbb368c03a6e57ae7b62f9297d50fb32a0109a0aedda/download\"))()",
+      "discord": "https://discord.gg/B9EfpPrAPN",
+      "website": "",
+      "recommended": false
+    },
+    {
+      "name": "Peak",
+      "status": "In Development",
+      "detection": "Unknown",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "updated": "Not Released",
+      "loadstring": "loadstring(game:HttpGet(\"https://api.getvortex.vip/api/t/QUGYKH/s/main\"))()",
+      "discord": "https://discord.gg/7HjB6zqCmh",
+      "website": "",
+      "recommended": false
+    },
+    {
+      "name": "Beanzz",
+      "section": "Scripts",
+      "status": "Working",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "updated": "16/11/2026 at 13:14",
+      "loadstring": "loadstring(game:HttpGet(\"https://beanzz.wtf/Main.lua\"))()",
+      "discord": "https://discord.gg/beanzhub",
+      "website": "https://beanzz.wtf/",
+      "recommended": true
+    },
+    {
+      "name": "Beanzz",
+      "section": "AutoRob",
+      "status": "Working",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Paid - 9.84$",
+      "updated": "16/11/2026 at 19:12",
+      "loadstring": "",
+      "discord": "https://discord.gg/beanzhub",
+      "website": "https://beanzz.wtf/",
+      "recommended": false
+    },
+    {
+      "name": "SorinScripts",
+      "section": "Scripts",
+      "status": "Working",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "updated": "16/11/2026 at 19:14",
+      "loadstring": "loadstring(game:HttpGet(\"https://api.sorinscripts.xyz/scripts/main.lua\"))()",
+      "discord": "https://discord.gg/sorinscripts",
+      "website": "https://sorinscripts.xyz/",
+      "recommended": false
+    },
+    {
+      "name": "SorinScripts",
+      "section": "AutoRob",
+      "status": "Working",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "updated": "16/11/2026 at 19:14",
+      "loadstring": "loadstring(game:HttpGet(\"https://api.sorinscripts.xyz/scripts/autofarm.lua\"))()",
+      "discord": "https://discord.gg/sorinscripts",
+      "website": "https://sorinscripts.xyz/",
+      "recommended": false
+    },
+    {
+      "name": "Dark X",
+      "section": "Scripts",
+      "status": "Down",
+      "detection": "Undetected",
+      "keysystem": "Key System",
+      "price": "Free",
+      "updated": "8/11/2026 at 10:30",
+      "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/Merdooon/skibidi-sigma-spec-ter/refs/heads/main/specter')))()",
+      "discord": "https://discord.gg/darkX",
+      "website": "https://darkx-script.com/",
+      "recommended": false
+    },
+    {
+      "name": "Dark X",
+      "section": "AutoRob",
+      "status": "In Development",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Paid - 9.99$",
+      "updated": "14/11/2026 at 18:08",
+      "loadstring": "",
+      "discord": "https://discord.gg/darkX",
+      "website": "https://darkx-script.com/",
+      "recommended": false
+    },
+    {
+      "name": "Trixo",
+      "section": "Scripts",
+      "status": "Down",
+      "detection": "Undetected",
+      "keysystem": "Key System",
+      "price": "Free",
+      "updated": "14/11/2026 at 22:00",
+      "loadstring": "loadstring(game:HttpGet(('https://gist.githubusercontent.com/toxo746-max/a956a3145bd803971fe36ee4dc181057/raw/382e3f305e090ac3b0c59a695ef26884fdc89841/TrixoV20.2')))()",
+      "discord": "https://discord.gg/toxo",
+      "website": "https://trixo-scripts.com/",
+      "recommended": false
+    }
+  ]
+}
