@@ -24,7 +24,7 @@
       "loadstring": "loadstring(game:HttpGet(\"https://api.sorinscripts.xyz/scripts/autofarm.lua\"))()",
       "discord": "https://discord.gg/sorinscripts",
       "website": "https://sorinscripts.xyz/",
-      "recommended": false
+      "recommended": true
     },
     {
       "name": "Dark X",
