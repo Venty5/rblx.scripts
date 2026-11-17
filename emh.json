@@ -69,7 +69,7 @@
       "loadstring": "loadstring(game:HttpGet(\"https://beanzz.wtf/Main.lua\"))()",
       "discord": "https://discord.gg/beanzhub",
       "website": "https://beanzz.wtf/",
-      "recommended": false
+      "recommended": true
     },
     {
       "name": "SorinScripts",
