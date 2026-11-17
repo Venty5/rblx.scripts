@@ -2,7 +2,7 @@
   "scripts": [
     {
       "name": "Vortex",
-      "status": "Bugging",
+      "status": "Down",
       "detection": "Undetected",
       "keysystem": "Keyless",
       "price": "Free",
@@ -14,7 +14,7 @@
     },
     {
       "name": "Nova",
-      "status": "In Development",
+      "status": "Down",
       "detection": "Unknown",
       "keysystem": "Keyless",
       "price": "Free",
@@ -25,7 +25,7 @@
     },
     {
       "name": "ZekeHub",
-      "status": "Working",
+      "status": "Down",
       "detection": "Undetected",
       "keysystem": "Keyless",
       "price": "Paid - 18.99$",
@@ -36,7 +36,7 @@
     },
     {
       "name": "Xeioa",
-      "status": "Bugging",
+      "status": "Down",
       "detection": "Undetected",
       "keysystem": "Key System",
       "price": "Free",
@@ -64,8 +64,8 @@
       "status": "Working",
       "detection": "Undetected",
       "keysystem": "Keyless",
-      "price": "Free",
-      "updated": "14/11/2026 at 20:55",
+      "price": "Paid - 4.99$",
+      "updated": "17/11/2026 at 20:00",
       "loadstring": "loadstring(game:HttpGet(\"https://beanzz.wtf/Main.lua\"))()",
       "discord": "https://discord.gg/beanzhub",
       "website": "https://beanzz.wtf/",
@@ -78,7 +78,7 @@
       "detection": "Undetected",
       "keysystem": "Keyless",
       "price": "Free",
-      "updated": "15/11/2026 at 11:07",
+      "updated": "16/11/2026 at 19:14",
       "loadstring": "loadstring(game:HttpGet(\"https://api.sorinscripts.xyz/scripts/main.lua\"))()",
       "discord": "https://discord.gg/sorinscripts",
       "website": "https://sorinscripts.xyz/",
@@ -87,7 +87,7 @@
     {
       "name": "Dark X",
       "section": "Scripts",
-      "status": "Bugging",
+      "status": "Down",
       "detection": "Undetected",
       "keysystem": "Key System",
       "price": "Free",
@@ -100,7 +100,7 @@
     {
       "name": "Trixo",
       "section": "Scripts",
-      "status": "Working",
+      "status": "Down",
       "detection": "Undetected",
       "keysystem": "Key System",
       "price": "Free",
