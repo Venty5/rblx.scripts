@@ -7,11 +7,11 @@
       "detection": "Undetected",
       "keysystem": "Keyless",
       "price": "Paid - 9.84$",
-      "updated": "14/11/2026 at 13:25",
+      "updated": "16/11/2026 at 19:12",
       "loadstring": "",
       "discord": "https://discord.gg/beanzhub",
       "website": "https://beanzz.wtf/",
-      "recommended": true
+      "recommended": false
     },
     {
       "name": "SorinScripts",
@@ -20,7 +20,7 @@
       "detection": "Undetected",
       "keysystem": "Keyless",
       "price": "Free",
-      "updated": "14/11/2026 at 16:23",
+      "updated": "16/11/2026 at 19:14",
       "loadstring": "loadstring(game:HttpGet(\"https://api.sorinscripts.xyz/scripts/autofarm.lua\"))()",
       "discord": "https://discord.gg/sorinscripts",
       "website": "https://sorinscripts.xyz/",
