@@ -2,16 +2,18 @@
   "scripts": [
     {
       "name": "Beanzz",
-      "section": "AutoRob",
       "status": "Working",
       "detection": "Undetected",
       "keysystem": "Keyless",
-      "price": "Paid - 9.84$",
-      "updated": "16/11/2026 at 19:12",
+      "price": "Paid",
+      "pricing": "9.84$",
+      "updated": "20/11/2026 at 20:37",
       "loadstring": "",
       "discord": "https://discord.gg/beanzhub",
       "website": "https://beanzz.wtf/",
-      "recommended": false
+      "section": "AutoRob",
+      "recommended": false,
+      "private": false
     },
     {
       "name": "SorinScripts",
