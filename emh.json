@@ -97,16 +97,18 @@
     },
     {
       "name": "Dark X",
-      "section": "Scripts",
-      "status": "Down",
+      "status": "Working",
       "detection": "Undetected",
       "keysystem": "Key System",
       "price": "Free",
+      "pricing": "",
       "updated": "8/11/2026 at 10:30",
       "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/Merdooon/skibidi-sigma-spec-ter/refs/heads/main/specter')))()",
       "discord": "https://discord.gg/darkX",
       "website": "https://darkx-script.com/",
-      "recommended": false
+      "section": "Scripts",
+      "recommended": false,
+      "private": false
     },
     {
       "name": "Trixo",
