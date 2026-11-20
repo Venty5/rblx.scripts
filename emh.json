@@ -17,14 +17,18 @@
     },
     {
       "name": "Nova",
-      "status": "Down",
+      "status": "In Development",
       "detection": "Unknown",
       "keysystem": "Keyless",
       "price": "Free",
+      "pricing": "",
       "updated": "Not Released",
       "loadstring": "",
       "discord": "https://discord.gg/XaCycuGUmY",
-      "website": "https://fakebyte.lol/"
+      "website": "https://fakebyte.lol/",
+      "section": "Scripts",
+      "recommended": false,
+      "private": false
     },
     {
       "name": "ZekeHub",
