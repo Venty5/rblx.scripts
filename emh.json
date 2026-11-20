@@ -112,16 +112,18 @@
     },
     {
       "name": "Trixo",
-      "section": "Scripts",
-      "status": "Down",
+      "status": "Working",
       "detection": "Undetected",
       "keysystem": "Key System",
       "price": "Free",
+      "pricing": "",
       "updated": "14/11/2026 at 22:00",
       "loadstring": "loadstring(game:HttpGet(('https://gist.githubusercontent.com/toxo746-max/a956a3145bd803971fe36ee4dc181057/raw/382e3f305e090ac3b0c59a695ef26884fdc89841/TrixoV20.2')))()",
       "discord": "https://discord.gg/toxo",
       "website": "https://trixo-scripts.com/",
-      "recommended": false
+      "section": "Scripts",
+      "recommended": false,
+      "private": false
     }
   ]
 }
