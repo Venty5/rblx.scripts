@@ -30,16 +30,18 @@
     },
     {
       "name": "Dark X",
-      "section": "AutoRob",
       "status": "In Development",
       "detection": "Undetected",
       "keysystem": "Keyless",
-      "price": "Paid - 9.99$",
+      "price": "Paid",
+      "pricing": "Lifetime: 9.99$\nWeekly:   5.79$\n3 Days:   3.49$",
       "updated": "14/11/2026 at 18:08",
       "loadstring": "",
       "discord": "https://discord.gg/darkX",
       "website": "https://darkx-script.com/",
-      "recommended": false
+      "section": "AutoRob",
+      "recommended": false,
+      "private": false
     }
   ]
 }
