@@ -2,7 +2,7 @@
   "scripts": [
     {
       "name": "Beanzz",
-      "status": "Working",
+      "status": "Down",
       "detection": "Undetected",
       "keysystem": "Keyless",
       "price": "Free",
@@ -11,6 +11,8 @@
       "loadstring": "loadstring(game:HttpGet(\"https://beanzz.wtf/Autorob.lua\"))()",
       "discord": "https://discord.gg/beanzhub",
       "website": "https://beanzz.wtf/",
+      "preview": "",
+      "skidded": "Not Skidded",
       "section": "AutoRob",
       "recommended": false,
       "private": false
