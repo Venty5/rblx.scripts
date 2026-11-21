@@ -3,7 +3,7 @@
     "removed": true
   },
   "356791815354974208": {
-    "scripts.create": true,
+    "scripts.create": false,
     "scripts.edit": true,
     "scripts.delete": false,
     "scripts.private": false,
