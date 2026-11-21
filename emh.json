@@ -107,7 +107,7 @@
       "discord": "https://discord.gg/darkX",
       "website": "https://darkx-script.com/",
       "section": "Scripts",
-      "recommended": false,
+      "recommended": true,
       "private": false
     },
     {
