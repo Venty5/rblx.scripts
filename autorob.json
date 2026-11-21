@@ -8,7 +8,7 @@
       "price": "Free",
       "pricing": "",
       "updated": "20/11/2026 at 20:37",
-      "loadstring": "",
+      "loadstring": "loadstring(game:HttpGet(\"https://beanzz.wtf/Autorob.lua\"))()",
       "discord": "https://discord.gg/beanzhub",
       "website": "https://beanzz.wtf/",
       "section": "AutoRob",
