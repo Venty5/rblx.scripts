@@ -130,6 +130,22 @@
       "section": "Scripts",
       "recommended": false,
       "private": false
+    },
+    {
+      "name": "DexorHub",
+      "status": "Working",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "pricing": "",
+      "updated": "30/10/2026 at 19:48",
+      "loadstring": "loadstring(game:HttpGet(\"https://dexoreh.com/dexoreh.lua\"))()",
+      "discord": "https://discord.gg/3WSPt3quY9",
+      "website": "",
+      "preview": "",
+      "section": "Scripts",
+      "recommended": false,
+      "private": false
     }
   ]
 }
