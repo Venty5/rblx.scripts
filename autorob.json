@@ -17,16 +17,18 @@
     },
     {
       "name": "SorinScripts",
-      "section": "AutoRob",
       "status": "Working",
       "detection": "Undetected",
       "keysystem": "Keyless",
       "price": "Free",
-      "updated": "16/11/2026 at 19:14",
+      "pricing": "",
+      "updated": "21/11/2026 at 14:14",
       "loadstring": "loadstring(game:HttpGet(\"https://api.sorinscripts.xyz/scripts/autofarm.lua\"))()",
       "discord": "https://discord.gg/sorinscripts",
       "website": "https://sorinscripts.xyz/",
-      "recommended": false
+      "section": "AutoRob",
+      "recommended": false,
+      "private": false
     },
     {
       "name": "Dark X",
