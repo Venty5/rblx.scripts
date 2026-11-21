@@ -5,8 +5,8 @@
   "356791815354974208": {
     "scripts.create": true,
     "scripts.edit": true,
-    "scripts.delete": true,
-    "scripts.private": true,
-    "admins.manage": true
+    "scripts.delete": false,
+    "scripts.private": false,
+    "admins.manage": false
   }
 }
