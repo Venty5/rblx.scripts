@@ -49,7 +49,7 @@
       "keysystem": "Key System",
       "price": "Free",
       "pricing": "",
-      "updated": "22/08/2026 at 14:16",
+      "updated": "21/08/2026 at 14:16",
       "loadstring": "loadstring(game:HttpGet(\"https://api.jnkie.com/api/v1/luascripts/public/e2d779b3b50f64de8a3dfbb368c03a6e57ae7b62f9297d50fb32a0109a0aedda/download\"))()",
       "discord": "https://discord.gg/B9EfpPrAPN",
       "website": "",
