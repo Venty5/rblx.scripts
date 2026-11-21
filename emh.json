@@ -130,21 +130,6 @@
       "section": "Scripts",
       "recommended": false,
       "private": false
-    },
-    {
-      "name": "Test Paid Scrpt",
-      "status": "Working",
-      "detection": "Undetected",
-      "keysystem": "Keyless",
-      "price": "Paid",
-      "pricing": "Lifetime: 10$\nLifetime: 10$\nLifetime: 10$\nLifetime: 10$",
-      "updated": "16/10/2026 at 20:53",
-      "loadstring": "",
-      "discord": "",
-      "website": "",
-      "section": "Scripts",
-      "recommended": false,
-      "private": false
     }
   ]
 }
