@@ -22,7 +22,7 @@
       "keysystem": "Keyless",
       "price": "Free",
       "pricing": "",
-      "updated": "21/11/2026 at 14:14",
+      "updated": "18/11/2026 16:29",
       "loadstring": "loadstring(game:HttpGet(\"https://api.sorinscripts.xyz/scripts/autofarm.lua\"))()",
       "discord": "https://discord.gg/sorinscripts",
       "website": "https://sorinscripts.xyz/",
