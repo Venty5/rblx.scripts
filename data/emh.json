@@ -29,7 +29,7 @@
       "website": "https://fakebyte.lol/",
       "section": "Scripts",
       "recommended": false,
-      "private": true
+      "private": false
     },
     {
       "name": "ZekeHub",
