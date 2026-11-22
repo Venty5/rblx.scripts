@@ -43,7 +43,7 @@
       "loadstring": "script_key = \"\" -- get your key at zekehub.com\nloadstring(game:HttpGet(\"https://zekehub.com/scripts/MainLoader.lua\"))()",
       "discord": "https://discord.gg/zekehub",
       "website": "https://zekehub.com",
-      "private": false
+      "private": true
     },
     {
       "name": "Xeonia",
