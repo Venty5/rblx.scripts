@@ -1,0 +1,21 @@
+{
+  "scripts": [
+    {
+      "name": "SorinScripts",
+      "status": "Working",
+      "detection": "Undetected",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "pricing": "",
+      "updated": "21/11/2026 at15:52",
+      "loadstring": "loadstring(game:HttpGet(\"https://api.sorinscripts.xyz/scripts/autofarm.lua\"))()",
+      "discord": "https://discord.gg/sorinscripts",
+      "website": "https://sorinscripts.xyz/",
+      "preview": "",
+      "skidded": "Not Skidded",
+      "section": "AutoRob",
+      "recommended": false,
+      "private": false
+    }
+  ]
+}
