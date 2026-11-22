@@ -1,6 +1,6 @@
 {
   "locks": {
-    "rivals": true,
+    "rivals": false,
     "emh": false,
     "autorob": false
   }
