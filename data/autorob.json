@@ -28,6 +28,8 @@
       "loadstring": "loadstring(game:HttpGet(\"https://api.sorinscripts.xyz/scripts/autofarm.lua\"))()",
       "discord": "https://discord.gg/sorinscripts",
       "website": "https://sorinscripts.xyz/",
+      "preview": "",
+      "skidded": "Skidded",
       "section": "AutoRob",
       "recommended": false,
       "private": false
