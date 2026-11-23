@@ -10,10 +10,6 @@
     "admins.manage": false
   },
   "1482750836370313359": {
-    "scripts.create": false,
-    "scripts.edit": false,
-    "scripts.delete": false,
-    "scripts.private": false,
-    "admins.manage": false
+    "removed": true
   }
 }
