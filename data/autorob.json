@@ -64,7 +64,7 @@
       "skidded": "Not Skidded",
       "section": "AutoRob",
       "recommended": false,
-      "private": false
+      "private": true
     }
   ]
 }
