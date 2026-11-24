@@ -31,7 +31,7 @@
       "skidded": "Not Skidded",
       "section": "Scripts",
       "recommended": false,
-      "private": false
+      "private": true
     },
     {
       "name": "ZekeHub",
