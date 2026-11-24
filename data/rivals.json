@@ -1,3 +1,21 @@
 {
-  "scripts": []
+  "scripts": [
+    {
+      "name": "ScriptWatcher",
+      "status": "In Development",
+      "detection": "Unknown",
+      "keysystem": "Keyless",
+      "price": "Free",
+      "pricing": "",
+      "updated": "Not Released Yet",
+      "loadstring": "",
+      "discord": "https://discord.gg/qv9Yy3pEwh",
+      "website": "https://scriptw.xyz",
+      "preview": "",
+      "skidded": "Not Skidded",
+      "section": "Rivals",
+      "recommended": false,
+      "private": false
+    }
+  ]
 }
