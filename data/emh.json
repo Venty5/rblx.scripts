@@ -195,7 +195,7 @@
       "skidded": "Not Skidded",
       "section": "Scripts",
       "recommended": false,
-      "private": true
+      "private": false
     }
   ]
 }
