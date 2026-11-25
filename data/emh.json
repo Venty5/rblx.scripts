@@ -173,7 +173,7 @@
       "price": "Free",
       "pricing": "",
       "updated": "",
-      "loadstring": "",
+      "loadstring": "loadstring(game:HttpGet(\"https://api.getaura.icu/main.lua\"))()",
       "discord": "https://discord.gg/HVKCVhPemK",
       "customTag": "",
       "customTagColor": "#6464FF",
