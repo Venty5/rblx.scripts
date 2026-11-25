@@ -102,7 +102,7 @@
       "keysystem": "Keyless",
       "price": "Free",
       "pricing": "",
-      "updated": "18/11/2026 16:29",
+      "updated": "25/11/2026 16:15",
       "loadstring": "loadstring(game:HttpGet(\"https://api.sorinscripts.xyz/scripts/main.lua\"))()",
       "discord": "https://discord.gg/sorinscripts",
       "website": "https://sorinscripts.xyz/",
