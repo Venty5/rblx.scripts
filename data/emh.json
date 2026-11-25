@@ -179,8 +179,8 @@
     },
     {
       "name": "Aura",
-      "status": "In Development",
-      "detection": "Unknown",
+      "status": "Working",
+      "detection": "Undetected",
       "keysystem": "Keyless",
       "keylink": "",
       "price": "Free",
