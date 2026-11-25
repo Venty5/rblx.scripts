@@ -18,6 +18,25 @@
       "section": "Rivals",
       "recommended": false,
       "private": false
+    },
+    {
+      "name": "Dark X",
+      "status": "Working",
+      "detection": "Possible Banwave",
+      "keysystem": "Key System",
+      "price": "Free",
+      "pricing": "",
+      "updated": "07/06/2026 at 21:28",
+      "loadstring": "loadstring(game:HttpGet(('https://raw.githubusercontent.com/Merdooon/skibidi-sigma-spec-ter/refs/heads/main/specter')))()",
+      "discord": "https://discord.gg/darkX",
+      "customTag": "",
+      "customTagColor": "#6464FF",
+      "website": "https://darkx-script.com/",
+      "preview": "",
+      "skidded": "Not Skidded",
+      "section": "Rivals",
+      "recommended": false,
+      "private": false
     }
   ]
 }
