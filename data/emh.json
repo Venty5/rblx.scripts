@@ -185,7 +185,7 @@
       "keylink": "",
       "price": "Free",
       "pricing": "",
-      "updated": "",
+      "updated": "25/11/2026 at 18:52",
       "loadstring": "loadstring(game:HttpGet(\"https://api.getaura.icu/main.lua\"))()",
       "discord": "https://discord.gg/HVKCVhPemK",
       "customTag": "",
