@@ -1,10 +1,10 @@
 {
   "297930642623037441": {
-    "scripts.create": true,
-    "scripts.edit": true,
-    "scripts.delete": true,
-    "scripts.private": true,
-    "admins.manage": true
+    "scripts.create": false,
+    "scripts.edit": false,
+    "scripts.delete": false,
+    "scripts.private": false,
+    "admins.manage": false
   },
   "356791815354974208": {
     "scripts.create": false,
